@@ -1,5 +1,7 @@
 # generateToken.js
-隨機產生 16 位數的 token
+這是一個示範程式，  
+其主要目的是展示如何隨機產生一個16位數的token。  
+透過這個程式，我們將深入探討token的產生方法。  
 ```shell=
 token: stFgRcvYbWz2jpgD
 ```
